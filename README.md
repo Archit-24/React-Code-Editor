@@ -1,5 +1,7 @@
 # REACT CODE EDITOR
 
+![image](https://github.com/Archit-24/React-Code-Editor/assets/155532480/a30902af-adea-401f-9dac-1459425dccd5)
+
 ## Introduction
 
 CodeEditor is a powerful, lightweight code editor built with ReactJS. It supports a wide range of programming languages, including JavaScript, TypeScript, PHP, Python, Java, and C#. Designed for simplicity and efficiency, CodeEditor provides an intuitive interface for both novice and experienced developers.
