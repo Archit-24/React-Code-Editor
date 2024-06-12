@@ -23,8 +23,11 @@ To get started with CodeEditor, follow these steps:
 - Node.js (v14 or higher)
 - npm (v6 or higher) or yarn
 
-### Clone the Repository
+### Dependencies
 
 ```bash
-git clone https://github.com/yourusername/codeeditor.git
-cd codeeditor
+npm install or yarn install
+
+# Start the server
+npm run dev or yarn dev
+```
